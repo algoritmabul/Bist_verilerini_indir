@@ -13,3 +13,10 @@ python ile Bist hisselerinin verilerini indirme
 olmayan hisseleri eklemek için ilgili yere "OYAKC.IS"  formatında eklenmelidir
 daha fazla bilgi için 
 https://pypi.org/project/yfinance/
+# yahoo_temel_analiz.py
+Terminali açın ve paketi yüklemek için aşağıdaki komutu çalıştırın:
+pip install yfinance
+pip install pandas
+Gelir Tablosu / Bilanço / Nakit Akış Tablosu 
+verilerini bilgisayarınıza kaydeder 
+TICKER = "DOCO.IS"   istediğiniz hissenin kodunu uygun formatta yazınız.
