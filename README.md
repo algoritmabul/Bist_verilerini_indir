@@ -20,3 +20,9 @@ pip install pandas
 Gelir Tablosu / Bilanço / Nakit Akış Tablosu 
 verilerini bilgisayarınıza kaydeder 
 TICKER = "DOCO.IS"   istediğiniz hissenin kodunu uygun formatta yazınız.
+# verileri indir isyatirim.py
+sirketler exel dosyasındaki ilgili sayfada bulunan koddaki hisseyi exel olarak indirir
+# veirleri csv yap.py
+isyatirim dizinindeki exel dosyaları csv formatına çevirir.
+# csv düzeltici.py
+tüm csv dosyaları düzeltir.
