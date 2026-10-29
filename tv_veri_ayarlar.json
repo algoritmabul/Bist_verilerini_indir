@@ -1,0 +1,10 @@
+{
+  "kaynak": "Kripto",
+  "borsa": "BINANCE",
+  "aralik": "1sa",
+  "bar": 2000,
+  "ozel_hedefler": {
+    "60dk": null,
+    "gunluk": "D:\\new\\yeniden\\yenigunluk"
+  }
+}
